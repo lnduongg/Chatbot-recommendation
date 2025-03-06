@@ -4,7 +4,7 @@
 
 Chatbot AI
 ===
-Đây là Chatbot AI có thể đưa ra gợi ý và khuyên nhủ về sản phẩm dựa trên bộ dữ liệu người dùng cung cấp cho nó.
+Đây là Chatbot AI có thể đưa ra gợi ý về sản phẩm dựa trên bộ dữ liệu người dùng cung cấp cho nó.
 ## Chức năng
 - Tự động sàng lọc ra những sản phẩm phù hợp với yêu cầu của người dùng.
 - Đưa ra câu trả lời về các sản phẩm dựa trên yêu cầu của người dùng.
